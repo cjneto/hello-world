@@ -16,7 +16,7 @@ mccabe==0.6.1
 multidict==4.7.6
 pylint==2.5.2
 rfc3986==1.4.0
-sanic==20.3.0
+sanic==20.12.7
 six==1.15.0
 sniffio==1.1.0
 toml==0.10.1
